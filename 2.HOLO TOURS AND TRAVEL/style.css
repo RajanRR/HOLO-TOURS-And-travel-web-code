@@ -1,0 +1,166 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+}
+.nav{
+	height: 100vh;
+		width: 100%;
+}
+h1{
+	margin: 0 105px;
+	position: relative;
+	font-size: 3rem;
+	font-weight: bolder;
+}
+.navbar{
+    width: 100%;
+    height: 5rem;
+    margin:auto;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background: ;
+}
+.navbar ul li{
+	list-style: none;
+	display: inline-block;
+	margin: 0 15px;
+	font-weight: bolder;
+	position: relative;
+}
+.navbar ul li a{
+	outline: none;
+	text-decoration: none;
+     padding: 10px 15px;
+	color: black;
+	border-radius: 50px;
+}
+.navbar ul li .active{
+	background: black;
+	color: white;
+}
+.navbar ul li a:hover{
+	background: black;
+	color: white;
+}
+input{
+	height: 20px;
+	width: ;
+	padding: 7px 35px;
+	outline: none;
+	border-radius: 2px;
+	border: 0.5px solid black;
+	transform: translateX(-250px);
+}
+.OKK{
+	width: 50%;
+	height: 90%;
+	position: absolute;
+	bottom: 0;
+	right: 0%
+}
+.main{
+	width: 90%;
+	height: 100%;
+}
+.content{
+position: absolute;
+	
+}
+.fa-solid{
+	font-size: 50px;
+	color: lightcoral;
+}
+.reck{
+	font-size: 40px;
+     bottom: 25rem;
+     margin-left: 25px;
+}
+span{
+	font-size: 75px;
+}
+span:hover{
+	color: mediumpurple;
+	cursor: pointer;
+}
+.nec{
+	margin-left: 25px;
+	margin-top: -25rem;
+    max-width: 450px;
+    color: grey;
+    font-size: 20px;
+    font-weight: 400;
+}
+.btn{
+	margin-top: 25px;
+	margin-left: 40px;
+	padding: 13px 30px;
+	outline: none;
+	background: lightcoral;
+	color: white;
+	font-size: 18px;
+	border: lightcoral;
+	transition: 10sec ease;
+}
+.btn:hover{
+	font-weight: 500;
+	color: white;
+	border: white;
+	background:black;
+}
+.line{
+	margin-top: 50px;
+	margin-left: 10px;
+	width: 30%;
+	height: 1px;
+	background: black;
+}
+.Aline{
+	margin-left: 10px;
+	margin-top: 8px;
+
+	height: 1px;
+	width: 65%;
+	background: black
+
+}
+.Bline{
+	margin-top: 8px;
+	width: 90%;
+	margin-left: 10px;
+	height: 1px;
+	background: black
+
+}.Cline{
+	margin-top: 8px;
+	width: 120%;
+	margin-left: 10px;
+	height: 1px;
+	background: black
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
